@@ -1,1 +1,1 @@
-apt update && apt install -y kali-win-kex && apt install -y kali-linux-large
+apt update && apt full-ugrade -y && apt install -y kali-win-kex && apt install -y kali-linux-default
