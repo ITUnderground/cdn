@@ -19,5 +19,5 @@ sudo apt update &&
 sudo apt full-upgrade -y && 
 sudo apt install -y kali-win-kex && 
 sudo apt install -y kali-linux-default &&
-echo "alias desktop='kex --esm --ip -s'" >> ~/.bashrc &&
+echo "alias desktop='kex --esm -s'" >> ~/.bashrc &&
 source ~/.bashrc
